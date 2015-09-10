@@ -1,0 +1,6 @@
+EBT_Restaurants_list.txt lists restaurants participating in the CalFresh Restaurant Meals Program.
+
+The source data, along with other info, is provided by the Los Angeles County Department of Public Social Services at http://www.ladpss.org/dpss/restaurant_meals/.
+
+The semicolon-delimited text file was extracted from August 15 pdf:
+http://www.ladpss.org/apps/files/download.cfm?file=2402&folder=249
